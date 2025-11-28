@@ -61,5 +61,5 @@ public class AlgorithmUtils {
             throw new IllegalArgumentException("Resistance cannot be zero");
         }
         return voltage / resistance;
-    }
+    }   // Final check
 }
